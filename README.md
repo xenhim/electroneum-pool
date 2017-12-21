@@ -81,7 +81,6 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 * https://etn.dedpool.io
 * http://etn.lucky-mining.com.ua/ <- Ukraine/Kiev
 * https://etn.xeminer.net/ <-- Asian
-
 Usage
 ===
 #### Requirements
